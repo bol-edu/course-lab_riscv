@@ -1,0 +1,13 @@
+#define CLOCK_CYCLE 0
+#define INSTRUCTION_COUNT 1
+
+#define READ 6
+#define WRITE 7
+
+#define BRANCH_COUNT 8
+#define BRANCH_NT_PDNT 9
+#define BRANCH_NT_PDT 10
+#define BRANCH_T_PDNT 11
+#define BRANCH_T_PDT 12
+#define STALL_COUNT 13
+#define FLUSH_COUNT 14
